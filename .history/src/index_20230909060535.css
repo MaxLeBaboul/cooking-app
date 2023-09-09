@@ -1,0 +1,16 @@
+. {
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  background: rgb(240, 240, 240);
+}
+h1 {
+  color: salmon;
+}
+input {
+  width: 300px;
+}
